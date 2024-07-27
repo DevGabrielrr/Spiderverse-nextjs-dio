@@ -45,5 +45,5 @@ Caso a porta 3000 estiver em uso, automaticamente o Next.js irá subir na próxi
 
 Se deseja alterar a porta padrão na qual a aplicação tentará subir, você pode modificar a porta no arquivo `next.config.js`.
 
-Agora você está pronto para explorar o projeto em seu ambiente local!
+Agora você está pronto para explorar o projeto em seu ambiente local.
 
